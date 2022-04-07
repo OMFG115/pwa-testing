@@ -1,0 +1,17 @@
+{
+    "name": "UNIVIM",
+    "short_name": "UNIVIM",
+    "theme_color": "#6f1c46",
+    "background_color": "#6f1c46",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "../images/iconon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
